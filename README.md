@@ -44,9 +44,9 @@ print(x)
 
 ## Output:
 (i) To find the L and U matrix:
-![image](https://github.com/sanjayy2431/LU-Decomposition/assets/149365143/caa60f94-dc7f-4d08-94ac-32f4c7139fe1)
+![alt text](<Screenshot 2024-04-18 153737.png>)
 (ii) To find the LU Decomposition of a matrix: 
-![image](https://github.com/sanjayy2431/LU-Decomposition/assets/149365143/8858ed25-e2cc-440c-b30e-50dbd0ebc4ed)
+![alt text](image.png)
 
 
 
